@@ -16,4 +16,5 @@ Here are some ideas to get you started:
 -->
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pmodhe2001 &theme=radical)
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=pmodhe2001 &theme=radical" alt="pmodhe2001" /></p>
 
