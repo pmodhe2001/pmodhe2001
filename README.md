@@ -1,11 +1,10 @@
 <h1 align="center">Hi there 👋</h1>
 Here are some ideas to get you started:
-<li>💻Programming languages I know - C , C++ , Python
-<li>🌱Currently trying my hands on <b>Web Development</b></li>
+<li>💻Programming languages I know - C++ , Python
 <li>👩🏻‍💻How to reach me -- my email :- pmodhe19@gmail.com
 <li>🚀connect with me on linkedin : https://www.linkedin.com/in/pmodhe2001/
 
-
+![](https://komarev.com/ghpvc/?username=pmodhe2001&label=PROFILE+VIEWS&color=brightgreen&style=flat-square)
 <h3 align="left">Connect with me:</h3>
 
 <!--
@@ -22,7 +21,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Prathmesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=pmodhe2001)](https://github.com/pmodhe2001/github-readme-stats)
+[![Prathmesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=pmodhe2001&theme=midnight-purple&show_icons=true)](https://github.com/pmodhe2001/github-readme-stats)
 <br>
 <br>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=pmodhe2001&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)  
