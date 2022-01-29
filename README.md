@@ -1,16 +1,10 @@
 <h1 align="center">Hi there 👋</h1>
 Here are some ideas to get you started:
-- 🔭 I’m currently working on ...** Competitive  programming ** 
-- 🌱 I’m currently learning ...** web dev **
-<!-- 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...  
-- 
-- -->
+<li>💻Programming languages I know - C , C++ , Python
+<li>🌱Currently trying my hands on <b>Web Development</b></li>
+<li>👩🏻‍💻How to reach me -- xyxzzz
+<li>🚀connect with me on linkedin : xyzzzz 
+
 
 <h3 align="left">Connect with me:</h3>
 
