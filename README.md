@@ -24,5 +24,8 @@ Here are some ideas to get you started:
 [![Prathmesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=pmodhe2001&theme=midnight-purple&show_icons=true)](https://github.com/pmodhe2001/github-readme-stats)
 <br>
 <br>
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pmodhe2001&theme=tokyonight)
+  <br>
+  <br>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=pmodhe2001&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)  
 
