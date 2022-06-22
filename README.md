@@ -1,6 +1,9 @@
 <h1 align="center">Hi there 👋</h1>
+<br>
+<h1 align="center">Currently polishing my skills in React.js</h1>
 Here are some ideas to get you started:
-<li>💻Programming languages I know - C++ , Python
+<li>💻Programming languages I know - C++ , Python , Javascript
+<li>💻FrontEnd Frameworks I know - Bootstrap , React.js
 <li>👩🏻‍💻How to reach me -- my email :- pmodhe19@gmail.com
 <li>🚀connect with me on linkedin : https://www.linkedin.com/in/pmodhe2001/
 
