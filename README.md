@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋</h1>
 <br>
-<h4 align="center">Currently polishing my skills in React.js</h4>
+<h4 align="center">Currently polishing my skills in Web Technologies</h4>
 Here are some ideas to get you started:
 <li>💻Programming languages I know - C++ , Python , Javascript
 <li>💻FrontEnd Frameworks I know - Bootstrap , React.js
